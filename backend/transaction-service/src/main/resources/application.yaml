@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: 0.0.1-SNAPSHOT
+  threads:
+    virtual:
+      enabled: true

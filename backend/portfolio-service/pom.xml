@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.portfolio-tracker</groupId>
-	<artifactId>0.0.1-SNAPSHOT</artifactId>
+	<artifactId>portfolio-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
